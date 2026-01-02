@@ -1,6 +1,3 @@
-streamlit
-numpy
 sounddevice
-matplotlib
-librosa
-torch
+numpy
+streamlit
