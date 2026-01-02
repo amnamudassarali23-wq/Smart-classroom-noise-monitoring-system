@@ -1,3 +1,4 @@
-sounddevice
-numpy
 streamlit
+numpy
+sounddevice
+matplotlib
