@@ -74,4 +74,3 @@ if st.checkbox("Show Audio Waveform"):
 
 st.markdown("---")
 st.markdown("**Developed by:** Amna Mudassar Ali")
-
